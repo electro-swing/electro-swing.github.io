@@ -2,4 +2,6 @@ title: Ana
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
 github_username:  electro-swing
+theme: jekyll-theme-minimal
+
 
