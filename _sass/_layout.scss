@@ -2,21 +2,21 @@ body {
 	margin: 0;
 	color: $font-color;
 	font-family: $font-style;
-	font-size: 1.3em;
+	font-size: 1.1em;
 	line-height: 1.7;
 	-webkit-font-smoothing: antialiased;
 }
 h1,
 h2,
 h3 {
-	font-weight: 500;
+	font-weight: normal;
 	color: $heading-font-color;
 	font-family: $heading-font;
 	line-height: 1.5;
 }
 h1 {
 	color: $main;
-	font-size: 2em;
+	font-size: 1.1em;
 	a,
 	a:visited {
 		text-decoration: none;
@@ -24,7 +24,7 @@ h1 {
 	}
 }
 h2 {
-	font-size: 1.8em;
+	font-size: 1.1em;
 }
 a,
 a:visited {
