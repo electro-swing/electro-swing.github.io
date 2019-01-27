@@ -1,7 +1,12 @@
 title: Ana
 permalink: /blog/:year/:month/:day/:title
-markdown: kramdown
 github_username:  electro-swing
 theme: jekyll-theme-minimal
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+  
 
 
