@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	color: $font-color;
 	font-family: $font-style;
-	font-size: 1.1em;
+	font-size: 1.0em;
 	line-height: 1.7;
 	-webkit-font-smoothing: antialiased;
 }
@@ -24,7 +24,7 @@ h1 {
 	}
 }
 h2 {
-	font-size: 1.1em;
+	font-size: 1.2em;
 }
 a,
 a:visited {
@@ -41,7 +41,7 @@ header {
 	padding: 0px 2px;
 	text-align: center;
 	margin: 50px 0 0;
-	height: 20vh;
+	height: 17vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -52,7 +52,7 @@ main {
 	margin: 0 auto;
 }
 time {
-	color: #898989;
+	color: #B53A3A;
 }
 .container {
 	max-width: $content-width;
