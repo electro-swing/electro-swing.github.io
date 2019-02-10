@@ -1,0 +1,13 @@
+---
+layout: default
+title: Jupyter
+---
+
+<ul>
+<h2>Jupyter notebooks</h2>
+{% for jupyter in site.jupyter %}
+		<h3><a href="{{ jupyter.url | prepend: site.baseurl }}">{{ jupyter.title }}</a></h3>
+{% endfor %}
+
+</ul>
+
