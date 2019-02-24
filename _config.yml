@@ -11,7 +11,7 @@ kramdown:
 encoding: utf-8
 
 collections:
-  jupyter:
+  jupyters
     output: true
     permalink: /jupyter/:path/
 
