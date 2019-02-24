@@ -11,5 +11,8 @@ kramdown:
 encoding: utf-8
 
 collections:
-  jupyter
+  jupyter:
+    output: true
+  thingamabobs:
+    output: true
 
