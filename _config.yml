@@ -1,0 +1,21 @@
+title: Ganbatte ne!
+
+github_username:  electro-swing
+theme: jekyll-theme-minimal
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
+encoding: utf-8
+
+collections_dir: my_collections
+
+collections:
+  jupyter:
+    output: true
+  work:
+    output: true
+  
+
