@@ -1,9 +1,7 @@
 ﻿---
-layout: post
-title: On the shoulders of the tinternet
+layout: defalut2
+title: Probability of dying where I come from 
 ---
-
-## Probability of dying where I come from 
   
     
 Let me just quickly load the data. 
@@ -291,7 +289,7 @@ for label in pw.get_xticklabels():
 ```
 
 
-![png](output_10_0.png)
+![png](/images/output_10_0.png)
 
 
 

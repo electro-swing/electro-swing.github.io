@@ -1,5 +1,5 @@
 title: Ganbatte ne!
-permalink: /blog/:year/:month/:day/:title
+
 github_username:  electro-swing
 theme: jekyll-theme-minimal
 sass:
@@ -10,8 +10,11 @@ kramdown:
 
 encoding: utf-8
 
+collections_dir: my_collections
+
 collections:
   jupyter:
     output: true
-    permalink: /jupyter/:path/
-
+  work:
+    output: true
+  

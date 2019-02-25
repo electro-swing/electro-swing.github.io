@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: defalut2
 title: Probability of dying where I come from 
 ---
   
