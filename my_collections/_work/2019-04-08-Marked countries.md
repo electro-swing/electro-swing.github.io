@@ -1,8 +1,9 @@
+---
+layout: post
+title: Map of the World with mapped countries
+---
 
 
-```python
-# Map of the World with mapped countries
-```
 
 Countries shape files downloaded from https://www.naturalearthdata.com/downloads/110m-cultural-vectors/ .
 The original tutorial link: https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0
