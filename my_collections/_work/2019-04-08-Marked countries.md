@@ -12,7 +12,7 @@ The original tutorial link: https://towardsdatascience.com/a-complete-guide-to-a
 
 ```python
 import geopandas as gpd
-shapefile = 'D:/python/geo/exposure map/ne_110m_admin_0_countries.shp'
+shapefile = 'ne_110m_admin_0_countries.shp'
 #Read shapefile using Geopandas
 gdf = gpd.read_file(shapefile)[['ADMIN', 'ADM0_A3', 'geometry']]
 #Rename columns.
@@ -100,7 +100,7 @@ gdf = gdf.drop(gdf.index[159])
 
 ```python
 import pandas as pd
-datafile = 'D:/python/geo/exposure map/expgit.xlsx'
+datafile = 'expgit.xlsx'
 #Read excel file using pandas
 df = pd.read_excel(datafile, skiprows = 0)
 df.head()
