@@ -10,7 +10,7 @@ Jupyters will be here.
 {% for jupyter in site.jupyter  %}
   <h2>
     <a href="{{ jupyter.url }}"> 
-   {{ jupyter.title }} - {{ jupyter.position }}
+   {{ jupyter.title }} 
  </a>  
 </h2>
 
