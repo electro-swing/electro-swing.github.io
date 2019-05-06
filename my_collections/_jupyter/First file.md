@@ -1,6 +1,6 @@
 ---
 layout: default2
-title: Key ratios for life insurance1
+title: Just 1
 ---
 
 The purpose of this post is for me to easily find this document from International Association of Insurance Supervisors when I need it:  
